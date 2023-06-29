@@ -25,52 +25,6 @@
 </tr>
 </table>
 
-<details>
-<summary>Induced mods: 1.12.2 Forge</summary>
-<ul>
-<li> <a href="https://modrinth.com/mod/wynntils">Wynntils</a></li>
-<li> <a href="https://modrinth.com/mod/foamfix">FoamFix</a></li>
-<li> <a href="https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded">Shoulder Surfing Reloaded</a></li>
-<li> FancyMenu</li>
-<li> Konkrete</li>
-<li> MixinBootstrap</li>
-</details>
-
-<details>
-<summary>Induced mods: 1.19.4 Forge</summary>
-<ul>
-<li> No Telemetry </li>
-<li> FancyMenu</li>
-<li> Canary</li>
-<li> Cloth Config API </li>
-<li> EntityCulling </li>
-<li> Radon </li>
-<li> Wynntils </li>
-<li> Konkrete </li>
-<li> Rubidium </li>
-<li> OkZoomer </li>
-<li> ShoulderSurfing </li> 
-</details>
-
-
-<details>
-<summary>Induced mods: 1.19.4 Quilt</summary>
-<ul>
-<li> Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL) </li>
-<li> No Telemetry </li>
-<li> FancyMenu</li>
-<li> Lithium </li>
-<li> Cloth Config API </li>
-<li> EntityCulling </li>
-<li> Starlight </li>
-<li> Wynntils </li>
-<li> Konkrete </li>
-<li> Sodium </li>
-<li> Forge Config API Port </li>
-<li> OkZoomer </li>
-<li> ShoulderSurfing </li> 
-</details>
-
 <hr>
 
 <p>This modpack's main goal is to provide a simple/minimalistic experience for wynncraft. Only the most important (In my opinion) mods are included.</p>
@@ -79,10 +33,6 @@
 - 1.12.2 Forge will be supported until Wynntils drops support.
 - 1.19.4 Quilt/Forge will be supported when Wynntils Artemis Stable releases.
 
-<hr>
-<center><p> If you are interested in a modpack with more features I recommend you to check out <a href="https://modrinth.com/modpack/wynnicenchantments">Wynnic Enchantments by Rafii</a></p>
-<a href="https://modrinth.com/modpack/wynnicenchantments">
-<img src="https://cdn-raw.modrinth.com/data/WMjBYFp1/images/3dff07958bbd134fb314cc70aa3ef4faf8c8b5dd.png" alt="img1" width="459" height="270"></a></center>
 <hr>
 
 <center>This modpack is fan made! Unaffiliated with Mojang or Wynncraft<center>
