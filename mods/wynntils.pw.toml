@@ -1,0 +1,14 @@
+name = "Wynntils"
+filename = "wynntils-0.0.3-alpha.322-fabric+MC-1.19.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/dU5Gb9Ab/versions/XDn0C7gV/wynntils-0.0.3-alpha.322-fabric%2BMC-1.19.4.jar"
+hash-format = "sha512"
+hash = "00e23b0ba9883d210fcbd594fb56f92cac7f2ce6a3fe6495b102c3a9d842f17236d840574469283098be0ae57485bed563d0263c0f38845de504bc11a250aff1"
+
+[update]
+[update.modrinth]
+mod-id = "dU5Gb9Ab"
+version = "XDn0C7gV"

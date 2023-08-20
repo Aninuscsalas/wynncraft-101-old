@@ -1,0 +1,9 @@
+/assets/*
+*.gitignore
+CHANGELOG.md
+README.md
+LICENSE
+.gitignore
+.gitmodules
+/.git/*
+*.mrpack
