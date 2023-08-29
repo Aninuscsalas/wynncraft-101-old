@@ -6,4 +6,4 @@ maxFps:260
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
-
+soundCategory_music:0.0
