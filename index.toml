@@ -89,11 +89,6 @@ file = "config/version.txt"
 hash = "da128386853bca940a8e76281e602ee7b57080df46bd22bec90d8e4a3979cb9a"
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "c37a20699b35a46378dab132c32721926e0619c0aaac0cc0e802cbbdd84f7c6d"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "45ff51c09470656272f06a3a1fec3ef4ea87f3af6a18039376cab460089a4167"
 metafile = true
@@ -116,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "a60d5ba45799e93eff1772d72de41f2bab9590e81e0a97fea0015f25c90d1950"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f29d10d90e0b8562293d61155c0cb445b83f454d59e9d0c8012fca59399c01be"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "f8e4f9724db711d75ccc707a8a88bf732331c6ff46a8f284b5d53a2c3f76f3fb"
+hash = "7a0f813547d79a30ebf659ff55e95ecf353b0af84734c2aa788f2b9274f399b0"
 metafile = true
 
 [[files]]
