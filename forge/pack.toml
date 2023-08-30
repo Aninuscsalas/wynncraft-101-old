@@ -1,0 +1,13 @@
+name = "Wynncraft 101"
+author = "aninuscsalas"
+version = "6+1.19.4.forge"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6afbae36ed276658b2564b7bb45a29ef7dd19adeff67c629a0200e9d7ba9eca5"
+
+[versions]
+forge = "45.1.16"
+minecraft = "1.19.4"
