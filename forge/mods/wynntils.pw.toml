@@ -1,13 +1,13 @@
 name = "Wynntils"
-filename = "wynntils-0.0.3-alpha.354-forge+MC-1.19.4.jar"
+filename = "wynntils-0.0.3-alpha.381-forge+MC-1.19.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dU5Gb9Ab/versions/Ur2x2fMr/wynntils-0.0.3-alpha.354-forge%2BMC-1.19.4.jar"
+url = "https://cdn.modrinth.com/data/dU5Gb9Ab/versions/JYY9CKC8/wynntils-0.0.3-alpha.381-forge%2BMC-1.19.4.jar"
 hash-format = "sha1"
-hash = "998dc7ab099dae72af21076fa03fd1e096715fff"
+hash = "a065286a101c7442421d04470b627462a8aaf49e"
 
 [update]
 [update.modrinth]
 mod-id = "dU5Gb9Ab"
-version = "Ur2x2fMr"
+version = "JYY9CKC8"
