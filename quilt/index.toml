@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f29d10d90e0b8562293d61155c0cb445b83f454d59e9d0c8012fca59399c01be"
+hash = "cb84b71fadc7abf51f5441681a32e934fe551e3d98f33e8f4c60c8563a579c0f"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "7a0f813547d79a30ebf659ff55e95ecf353b0af84734c2aa788f2b9274f399b0"
+hash = "e18aca60d018f80a93a160e89b96359c132187bcc0b28d4e40e375bc7041644f"
 metafile = true
 
 [[files]]
