@@ -7,9 +7,7 @@
 
 <p>This modpack's main goal is to provide a simple/minimalistic experience for wynncraft. Only the most important (In my opinion) mods are included.</p>
 
-
-- 1.12.2 Forge will be supported until Wynntils drops support.
-- 1.19.4 Quilt/Forge will be supported when Wynntils Artemis Stable releases.
+- 1.19.4 Quilt/Forge will be supported fully when Wynntils Artemis Stable releases.
 
 <hr>
 
