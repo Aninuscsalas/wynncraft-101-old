@@ -1,3 +1,7 @@
+New repo:
+https://github.com/Aninuscsalas/wynncraft-101
+
+
 <br>
 <h1>🗡️ Wynncraft 101 🏹</h1>
 
